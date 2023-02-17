@@ -2,7 +2,7 @@ import csv
 
 def read_csv_file(filename):
     data = []
-    with open(filename, 'r') as csv_file:
+    with open(filename, 'r',encoding="utf8") as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             data.append(row)
