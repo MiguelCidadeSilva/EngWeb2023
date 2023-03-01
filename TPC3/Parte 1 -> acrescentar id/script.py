@@ -3,13 +3,10 @@ import json
 f =  open("dataset-extra1.json",encoding="utf8")
 dicionario = json.load(f)
 pessoas = dicionario['pessoas']
-
-def acrescentaid(pessoas):
-    id = 1
-    for pessoa in pessoas:
-        pessoa['id'] =  id
-        id+=1
-    return pessoas
+id = 0
+for pessoa in pessoas:
+    pessoa['id'] =  f"p{id}"
+    id+=1
 
 with open("dataset-extra1.json", "w") as f:
-    json.dump(acrescentaid(pessoas),f,indent=4)
+    json.dump(dicionario,f,indent=4)
