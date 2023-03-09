@@ -1,0 +1,906 @@
+{
+    "users": [
+        {
+            "id": "u0",
+            "nome": "nome0"
+        },
+        {
+            "id": "u1",
+            "nome": "nome1"
+        },
+        {
+            "id": "u2",
+            "nome": "nome2"
+        },
+        {
+            "id": "u3",
+            "nome": "nome3"
+        },
+        {
+            "id": "u4",
+            "nome": "nome4"
+        },
+        {
+            "id": "u5",
+            "nome": "nome5"
+        },
+        {
+            "id": "u6",
+            "nome": "nome6"
+        },
+        {
+            "id": "u7",
+            "nome": "nome7"
+        },
+        {
+            "id": "u8",
+            "nome": "nome8"
+        },
+        {
+            "id": "u9",
+            "nome": "nome9"
+        },
+        {
+            "id": "u10",
+            "nome": "nome10"
+        },
+        {
+            "id": "u11",
+            "nome": "nome11"
+        },
+        {
+            "id": "u12",
+            "nome": "nome12"
+        },
+        {
+            "id": "u13",
+            "nome": "nome13"
+        },
+        {
+            "id": "u14",
+            "nome": "nome14"
+        },
+        {
+            "id": "u15",
+            "nome": "nome15"
+        },
+        {
+            "id": "u16",
+            "nome": "nome16"
+        },
+        {
+            "id": "u17",
+            "nome": "nome17"
+        },
+        {
+            "id": "u18",
+            "nome": "nome18"
+        },
+        {
+            "id": "u19",
+            "nome": "nome19"
+        },
+        {
+            "id": "u20",
+            "nome": "nome20"
+        },
+        {
+            "id": "u21",
+            "nome": "nome21"
+        },
+        {
+            "id": "u22",
+            "nome": "nome22"
+        },
+        {
+            "id": "u23",
+            "nome": "nome23"
+        },
+        {
+            "id": "u24",
+            "nome": "nome24"
+        },
+        {
+            "id": "u25",
+            "nome": "nome25"
+        },
+        {
+            "id": "u26",
+            "nome": "nome26"
+        },
+        {
+            "id": "u27",
+            "nome": "nome27"
+        },
+        {
+            "id": "u28",
+            "nome": "nome28"
+        },
+        {
+            "id": "u29",
+            "nome": "nome29"
+        },
+        {
+            "id": "u30",
+            "nome": "nome30"
+        },
+        {
+            "id": "u31",
+            "nome": "nome31"
+        },
+        {
+            "id": "u32",
+            "nome": "nome32"
+        },
+        {
+            "id": "u33",
+            "nome": "nome33"
+        },
+        {
+            "id": "u34",
+            "nome": "nome34"
+        },
+        {
+            "id": "u35",
+            "nome": "nome35"
+        },
+        {
+            "id": "u36",
+            "nome": "nome36"
+        },
+        {
+            "id": "u37",
+            "nome": "nome37"
+        },
+        {
+            "id": "u38",
+            "nome": "nome38"
+        },
+        {
+            "id": "u39",
+            "nome": "nome39"
+        },
+        {
+            "id": "u40",
+            "nome": "nome40"
+        },
+        {
+            "id": "u41",
+            "nome": "nome41"
+        },
+        {
+            "id": "u42",
+            "nome": "nome42"
+        },
+        {
+            "id": "u43",
+            "nome": "nome43"
+        },
+        {
+            "id": "u44",
+            "nome": "nome44"
+        },
+        {
+            "id": "u45",
+            "nome": "nome45"
+        },
+        {
+            "id": "u46",
+            "nome": "nome46"
+        },
+        {
+            "id": "u47",
+            "nome": "nome47"
+        },
+        {
+            "id": "u48",
+            "nome": "nome48"
+        },
+        {
+            "id": "u49",
+            "nome": "nome49"
+        },
+        {
+            "id": "u50",
+            "nome": "nome50"
+        },
+        {
+            "id": "u51",
+            "nome": "nome51"
+        },
+        {
+            "id": "u52",
+            "nome": "nome52"
+        },
+        {
+            "id": "u53",
+            "nome": "nome53"
+        },
+        {
+            "id": "u54",
+            "nome": "nome54"
+        },
+        {
+            "id": "u55",
+            "nome": "nome55"
+        },
+        {
+            "id": "u56",
+            "nome": "nome56"
+        },
+        {
+            "id": "u57",
+            "nome": "nome57"
+        },
+        {
+            "id": "u58",
+            "nome": "nome58"
+        },
+        {
+            "id": "u59",
+            "nome": "nome59"
+        },
+        {
+            "id": "u60",
+            "nome": "nome60"
+        },
+        {
+            "id": "u61",
+            "nome": "nome61"
+        },
+        {
+            "id": "u62",
+            "nome": "nome62"
+        },
+        {
+            "id": "u63",
+            "nome": "nome63"
+        },
+        {
+            "id": "u64",
+            "nome": "nome64"
+        },
+        {
+            "id": "u65",
+            "nome": "nome65"
+        },
+        {
+            "id": "u66",
+            "nome": "nome66"
+        },
+        {
+            "id": "u67",
+            "nome": "nome67"
+        },
+        {
+            "id": "u68",
+            "nome": "nome68"
+        },
+        {
+            "id": "u69",
+            "nome": "nome69"
+        },
+        {
+            "id": "u70",
+            "nome": "nome70"
+        },
+        {
+            "id": "u71",
+            "nome": "nome71"
+        },
+        {
+            "id": "u72",
+            "nome": "nome72"
+        },
+        {
+            "id": "u73",
+            "nome": "nome73"
+        },
+        {
+            "id": "u74",
+            "nome": "nome74"
+        },
+        {
+            "id": "u75",
+            "nome": "nome75"
+        },
+        {
+            "id": "u76",
+            "nome": "nome76"
+        },
+        {
+            "id": "u77",
+            "nome": "nome77"
+        },
+        {
+            "id": "u78",
+            "nome": "nome78"
+        },
+        {
+            "id": "u79",
+            "nome": "nome79"
+        },
+        {
+            "id": "u80",
+            "nome": "nome80"
+        },
+        {
+            "id": "u81",
+            "nome": "nome81"
+        },
+        {
+            "id": "u82",
+            "nome": "nome82"
+        },
+        {
+            "id": "u83",
+            "nome": "nome83"
+        },
+        {
+            "id": "u84",
+            "nome": "nome84"
+        },
+        {
+            "id": "u85",
+            "nome": "nome85"
+        },
+        {
+            "id": "u86",
+            "nome": "nome86"
+        },
+        {
+            "id": "u87",
+            "nome": "nome87"
+        },
+        {
+            "id": "u88",
+            "nome": "nome88"
+        },
+        {
+            "id": "u89",
+            "nome": "nome89"
+        },
+        {
+            "id": "u90",
+            "nome": "nome90"
+        },
+        {
+            "id": "u91",
+            "nome": "nome91"
+        },
+        {
+            "id": "u92",
+            "nome": "nome92"
+        },
+        {
+            "id": "u93",
+            "nome": "nome93"
+        },
+        {
+            "id": "u94",
+            "nome": "nome94"
+        },
+        {
+            "id": "u95",
+            "nome": "nome95"
+        },
+        {
+            "id": "u96",
+            "nome": "nome96"
+        },
+        {
+            "id": "u97",
+            "nome": "nome97"
+        },
+        {
+            "id": "u98",
+            "nome": "nome98"
+        },
+        {
+            "id": "u99",
+            "nome": "nome99"
+        }
+    ],
+    "tasks": [
+        {
+            "id": "t0",
+            "nome": "nome0",
+            "what": "Wake up early and stretch"
+        },
+        {
+            "id": "t1",
+            "nome": "nome1",
+            "what": "Make your bed"
+        },
+        {
+            "id": "t2",
+            "nome": "nome2",
+            "what": "Meditate or practice mindfulness"
+        },
+        {
+            "id": "t3",
+            "nome": "nome3",
+            "what": "Take a shower and get dressed"
+        },
+        {
+            "id": "t4",
+            "nome": "nome4",
+            "what": "Eat a healthy breakfast"
+        },
+        {
+            "id": "t5",
+            "nome": "nome5",
+            "what": "Brush your teeth and comb your hair"
+        },
+        {
+            "id": "t6",
+            "nome": "nome6",
+            "what": "Check your email and respond to urgent messages"
+        },
+        {
+            "id": "t7",
+            "nome": "nome7",
+            "what": "Plan your schedule for the day"
+        },
+        {
+            "id": "t8",
+            "nome": "nome8",
+            "what": "Start work on important tasks"
+        },
+        {
+            "id": "t9",
+            "nome": "nome9",
+            "what": "Attend meetings and collaborate with team members"
+        },
+        {
+            "id": "t10",
+            "nome": "nome10",
+            "what": "Complete pending tasks and meet deadlines"
+        },
+        {
+            "id": "t11",
+            "nome": "nome11",
+            "what": "Check in with colleagues and clients"
+        },
+        {
+            "id": "t12",
+            "nome": "nome12",
+            "what": "Take a break and stretch"
+        },
+        {
+            "id": "t13",
+            "nome": "nome13",
+            "what": "Have a healthy lunch"
+        },
+        {
+            "id": "t14",
+            "nome": "nome14",
+            "what": "Review progress and make adjustments as necessary"
+        },
+        {
+            "id": "t15",
+            "nome": "nome15",
+            "what": "Have a healthy snack"
+        },
+        {
+            "id": "t16",
+            "nome": "nome16",
+            "what": "Finish up work for the day"
+        },
+        {
+            "id": "t17",
+            "nome": "nome17",
+            "what": "Exercise or engage in physical activity"
+        },
+        {
+            "id": "t18",
+            "nome": "nome18",
+            "what": "Cook or prepare dinner"
+        },
+        {
+            "id": "t19",
+            "nome": "nome19",
+            "what": "Spend time with family or friends"
+        },
+        {
+            "id": "t20",
+            "nome": "nome20",
+            "what": "Relax and unwind"
+        },
+        {
+            "id": "t21",
+            "nome": "nome21",
+            "what": "Read a book or listen to music"
+        },
+        {
+            "id": "t22",
+            "nome": "nome22",
+            "what": "Go to bed at a reasonable time"
+        },
+        {
+            "id": "t23",
+            "nome": "nome23",
+            "what": "Learn a new skill or take an online course"
+        },
+        {
+            "id": "t24",
+            "nome": "nome24",
+            "what": "Write in a journal or reflect on your day"
+        },
+        {
+            "id": "t25",
+            "nome": "nome25",
+            "what": "Take a walk or go for a run"
+        },
+        {
+            "id": "t26",
+            "nome": "nome26",
+            "what": "Practice a musical instrument or sing"
+        },
+        {
+            "id": "t27",
+            "nome": "nome27",
+            "what": "Do a creative activity like painting or drawing"
+        },
+        {
+            "id": "t28",
+            "nome": "nome28",
+            "what": "Watch a movie or TV show"
+        },
+        {
+            "id": "t29",
+            "nome": "nome29",
+            "what": "Catch up on news or read a book"
+        },
+        {
+            "id": "t30",
+            "nome": "nome30",
+            "what": "Clean and organize your living space"
+        },
+        {
+            "id": "t31",
+            "nome": "nome31",
+            "what": "Attend a social event or meetup"
+        },
+        {
+            "id": "t32",
+            "nome": "nome32",
+            "what": "Volunteer or do community service"
+        },
+        {
+            "id": "t33",
+            "nome": "nome33",
+            "what": "Practice a foreign language"
+        },
+        {
+            "id": "t34",
+            "nome": "nome34",
+            "what": "Take a nap or rest"
+        },
+        {
+            "id": "t35",
+            "nome": "nome35",
+            "what": "Make a healthy smoothie or juice"
+        },
+        {
+            "id": "t36",
+            "nome": "nome36",
+            "what": "Do a crossword or puzzle"
+        },
+        {
+            "id": "t37",
+            "nome": "nome37",
+            "what": "Visit a museum or art gallery"
+        },
+        {
+            "id": "t38",
+            "nome": "nome38",
+            "what": "Listen to a podcast or audiobook"
+        },
+        {
+            "id": "t39",
+            "nome": "nome39",
+            "what": "Have a deep conversation with someone"
+        },
+        {
+            "id": "t40",
+            "nome": "nome40",
+            "what": "Write a letter to someone you care about"
+        },
+        {
+            "id": "t41",
+            "nome": "nome41",
+            "what": "Create a vision board or set goals"
+        },
+        {
+            "id": "t42",
+            "nome": "nome42",
+            "what": "Practice gratitude and appreciation"
+        },
+        {
+            "id": "t43",
+            "nome": "nome43",
+            "what": "Declutter your digital life"
+        },
+        {
+            "id": "t44",
+            "nome": "nome44",
+            "what": "Practice a form of self-care like yoga or meditation"
+        },
+        {
+            "id": "t45",
+            "nome": "nome45",
+            "what": "Try a new hobby or activity"
+        },
+        {
+            "id": "t46",
+            "nome": "nome46",
+            "what": "Learn about a different culture or religion"
+        },
+        {
+            "id": "t47",
+            "nome": "nome47",
+            "what": "Go to a concert or live performance"
+        },
+        {
+            "id": "t48",
+            "nome": "nome48",
+            "what": "Make plans for a future trip or adventure"
+        },
+        {
+            "id": "t49",
+            "nome": "nome49",
+            "what": "Take a class or workshop"
+        },
+        {
+            "id": "t50",
+            "nome": "nome50",
+            "what": "Practice forgiveness and let go of grudges"
+        },
+        {
+            "id": "t51",
+            "nome": "nome51",
+            "what": "Call or text a friend to check in"
+        },
+        {
+            "id": "t52",
+            "nome": "nome52",
+            "what": "Start a garden or plant flowers"
+        },
+        {
+            "id": "t53",
+            "nome": "nome53",
+            "what": "Try a new recipe or cuisine"
+        },
+        {
+            "id": "t54",
+            "nome": "nome54",
+            "what": "Create a budget or track expenses"
+        },
+        {
+            "id": "t55",
+            "nome": "nome55",
+            "what": "Take a digital detox"
+        },
+        {
+            "id": "t56",
+            "nome": "nome56",
+            "what": "Practice public speaking or storytelling"
+        },
+        {
+            "id": "t57",
+            "nome": "nome57",
+            "what": "Donate to a charity or cause you care about"
+        },
+        {
+            "id": "t58",
+            "nome": "nome58",
+            "what": "Do a random act of kindness"
+        },
+        {
+            "id": "t59",
+            "nome": "nome59",
+            "what": "Explore a new neighborhood or city"
+        },
+        {
+            "id": "t60",
+            "nome": "nome60",
+            "what": "Practice active listening and empathy"
+        },
+        {
+            "id": "t61",
+            "nome": "nome61",
+            "what": "Take a break from social media"
+        },
+        {
+            "id": "t62",
+            "nome": "nome62",
+            "what": "Do a DIY project or home improvement task"
+        },
+        {
+            "id": "t63",
+            "nome": "nome63",
+            "what": "Try a new workout or fitness routine"
+        },
+        {
+            "id": "t64",
+            "nome": "nome64",
+            "what": "Visit a nearby park or nature reserve"
+        },
+        {
+            "id": "t65",
+            "nome": "nome65",
+            "what": "Write a poem or song"
+        },
+        {
+            "id": "t66",
+            "nome": "nome66",
+            "what": "Organize your email inbox or computer files"
+        },
+        {
+            "id": "t67",
+            "nome": "nome67",
+            "what": "Attend a seminar or conference"
+        },
+        {
+            "id": "t68",
+            "nome": "nome68",
+            "what": "Take a personality or career assessment"
+        },
+        {
+            "id": "t69",
+            "nome": "nome69",
+            "what": "Practice self-reflection and self-awareness"
+        },
+        {
+            "id": "t70",
+            "nome": "nome70",
+            "what": "Create a vision board or set goals"
+        },
+        {
+            "id": "t71",
+            "nome": "nome71",
+            "what": "Try a new form of art like sculpting or printmaking"
+        },
+        {
+            "id": "t72",
+            "nome": "nome72",
+            "what": "Learn about a new technology or gadget"
+        },
+        {
+            "id": "t73",
+            "nome": "nome73",
+            "what": "Try a new form of meditation or mindfulness practice"
+        },
+        {
+            "id": "t74",
+            "nome": "nome74",
+            "what": "Make a gratitude list"
+        },
+        {
+            "id": "t75",
+            "nome": "nome75",
+            "what": "Spend time in nature and connect with the environment"
+        },
+        {
+            "id": "t76",
+            "nome": "nome76",
+            "what": "Join a book club or discussion group"
+        },
+        {
+            "id": "t77",
+            "nome": "nome77",
+            "what": "Do a digital declutter and delete unnecessary files"
+        },
+        {
+            "id": "t78",
+            "nome": "nome78",
+            "what": "Create a self-care routineStart your day with a glass of warm water and lemon"
+        },
+        {
+            "id": "t79",
+            "nome": "nome79",
+            "what": "Write a to-do list for the day"
+        },
+        {
+            "id": "t80",
+            "nome": "nome80",
+            "what": "Do a 10-minute yoga routine"
+        },
+        {
+            "id": "t81",
+            "nome": "nome81",
+            "what": "Take a cold shower"
+        },
+        {
+            "id": "t82",
+            "nome": "nome82",
+            "what": "Listen to a motivational podcast"
+        },
+        {
+            "id": "t83",
+            "nome": "nome83",
+            "what": "Have a healthy snack in between meals"
+        },
+        {
+            "id": "t84",
+            "nome": "nome84",
+            "what": "Learn a new word and use it in a sentence"
+        },
+        {
+            "id": "t85",
+            "nome": "nome85",
+            "what": "Take a 15-minute power nap"
+        },
+        {
+            "id": "t86",
+            "nome": "nome86",
+            "what": "Do a quick workout at home"
+        },
+        {
+            "id": "t87",
+            "nome": "nome87",
+            "what": "Take a break from technology for an hour"
+        },
+        {
+            "id": "t88",
+            "nome": "nome88",
+            "what": "Write a letter of gratitude to someone"
+        },
+        {
+            "id": "t89",
+            "nome": "nome89",
+            "what": "Spend time in nature and observe your surroundings"
+        },
+        {
+            "id": "t90",
+            "nome": "nome90",
+            "what": "Try a new recipe for lunch or dinner"
+        },
+        {
+            "id": "t91",
+            "nome": "nome91",
+            "what": "Do a random act of kindness for a stranger"
+        },
+        {
+            "id": "t92",
+            "nome": "nome92",
+            "what": "Take a 30-minute walk during lunch break"
+        },
+        {
+            "id": "t93",
+            "nome": "nome93",
+            "what": "Declutter your workspace or home"
+        },
+        {
+            "id": "t94",
+            "nome": "nome94",
+            "what": "Do a brain teaser or puzzle"
+        },
+        {
+            "id": "t95",
+            "nome": "nome95",
+            "what": "Listen to a new music genre"
+        },
+        {
+            "id": "t96",
+            "nome": "nome96",
+            "what": "Have a cup of herbal tea before bedtime"
+        },
+        {
+            "id": "t97",
+            "nome": "nome97",
+            "what": "Read a chapter from a non-fiction book"
+        },
+        {
+            "id": "t98",
+            "nome": "nome98",
+            "what": "Take a different route to work or run an errand"
+        },
+        {
+            "id": "t99",
+            "nome": "nome99",
+            "what": "Play videogames"
+        }
+    ]
+}
