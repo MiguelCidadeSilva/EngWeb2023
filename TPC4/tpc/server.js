@@ -4,15 +4,42 @@ var axios = require('axios')
 var templates = require('./templates')
 var static = require('./static.js')
 
-//adiciona user
+function adicionaUser(res,result)
+{
+    axios.post("http://localhost:3000/users", result)
+    .then( response => {
+        showTasks(res)   
+    })
+    
+}
 
-//adiciona tarefa
+function adicionaTask(res,result)
+{
+    axios.post("http://localhost:3000/tasks" ,result)
+    .then( response => {
+        showTasks(res)   
+    })
+}
 
 //funcao que una as duas
 
-//getusers
+function getUtilizadores()
+{
+    return axios.get("http://localhost:3000/users/?_sort=nome")
+    .then(res => 
+        {
+            return res.data
+        })
+}
 
-//get tarefas
+function getTarefas()
+{
+    return axios.get("http://localhost:3000/tasks/")
+    .then(res => 
+        {
+            return res.data
+        })
+}
 
 //get das duas que evoca as coisas acima
 
