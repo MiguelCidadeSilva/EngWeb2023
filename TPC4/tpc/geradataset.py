@@ -119,7 +119,8 @@ for i in range(0,100):
     tarefa = {
         'id' : f't{i}',
         'nome': f'nome{i}',
-        'what': daily_tasks[i]
+        'what': daily_tasks[i],
+        'done': 0
     }
     dicionario["tasks"].append(tarefa)
 

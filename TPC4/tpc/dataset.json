@@ -405,502 +405,602 @@
         {
             "id": "t0",
             "nome": "nome0",
-            "what": "Wake up early and stretch"
+            "what": "Wake up early and stretch",
+            "done": 0
         },
         {
             "id": "t1",
             "nome": "nome1",
-            "what": "Make your bed"
+            "what": "Make your bed",
+            "done": 0
         },
         {
             "id": "t2",
             "nome": "nome2",
-            "what": "Meditate or practice mindfulness"
+            "what": "Meditate or practice mindfulness",
+            "done": 0
         },
         {
             "id": "t3",
             "nome": "nome3",
-            "what": "Take a shower and get dressed"
+            "what": "Take a shower and get dressed",
+            "done": 0
         },
         {
             "id": "t4",
             "nome": "nome4",
-            "what": "Eat a healthy breakfast"
+            "what": "Eat a healthy breakfast",
+            "done": 0
         },
         {
             "id": "t5",
             "nome": "nome5",
-            "what": "Brush your teeth and comb your hair"
+            "what": "Brush your teeth and comb your hair",
+            "done": 0
         },
         {
             "id": "t6",
             "nome": "nome6",
-            "what": "Check your email and respond to urgent messages"
+            "what": "Check your email and respond to urgent messages",
+            "done": 0
         },
         {
             "id": "t7",
             "nome": "nome7",
-            "what": "Plan your schedule for the day"
+            "what": "Plan your schedule for the day",
+            "done": 0
         },
         {
             "id": "t8",
             "nome": "nome8",
-            "what": "Start work on important tasks"
+            "what": "Start work on important tasks",
+            "done": 0
         },
         {
             "id": "t9",
             "nome": "nome9",
-            "what": "Attend meetings and collaborate with team members"
+            "what": "Attend meetings and collaborate with team members",
+            "done": 0
         },
         {
             "id": "t10",
             "nome": "nome10",
-            "what": "Complete pending tasks and meet deadlines"
+            "what": "Complete pending tasks and meet deadlines",
+            "done": 0
         },
         {
             "id": "t11",
             "nome": "nome11",
-            "what": "Check in with colleagues and clients"
+            "what": "Check in with colleagues and clients",
+            "done": 0
         },
         {
             "id": "t12",
             "nome": "nome12",
-            "what": "Take a break and stretch"
+            "what": "Take a break and stretch",
+            "done": 0
         },
         {
             "id": "t13",
             "nome": "nome13",
-            "what": "Have a healthy lunch"
+            "what": "Have a healthy lunch",
+            "done": 0
         },
         {
             "id": "t14",
             "nome": "nome14",
-            "what": "Review progress and make adjustments as necessary"
+            "what": "Review progress and make adjustments as necessary",
+            "done": 0
         },
         {
             "id": "t15",
             "nome": "nome15",
-            "what": "Have a healthy snack"
+            "what": "Have a healthy snack",
+            "done": 0
         },
         {
             "id": "t16",
             "nome": "nome16",
-            "what": "Finish up work for the day"
+            "what": "Finish up work for the day",
+            "done": 0
         },
         {
             "id": "t17",
             "nome": "nome17",
-            "what": "Exercise or engage in physical activity"
+            "what": "Exercise or engage in physical activity",
+            "done": 0
         },
         {
             "id": "t18",
             "nome": "nome18",
-            "what": "Cook or prepare dinner"
+            "what": "Cook or prepare dinner",
+            "done": 0
         },
         {
             "id": "t19",
             "nome": "nome19",
-            "what": "Spend time with family or friends"
+            "what": "Spend time with family or friends",
+            "done": 0
         },
         {
             "id": "t20",
             "nome": "nome20",
-            "what": "Relax and unwind"
+            "what": "Relax and unwind",
+            "done": 0
         },
         {
             "id": "t21",
             "nome": "nome21",
-            "what": "Read a book or listen to music"
+            "what": "Read a book or listen to music",
+            "done": 0
         },
         {
             "id": "t22",
             "nome": "nome22",
-            "what": "Go to bed at a reasonable time"
+            "what": "Go to bed at a reasonable time",
+            "done": 0
         },
         {
             "id": "t23",
             "nome": "nome23",
-            "what": "Learn a new skill or take an online course"
+            "what": "Learn a new skill or take an online course",
+            "done": 0
         },
         {
             "id": "t24",
             "nome": "nome24",
-            "what": "Write in a journal or reflect on your day"
+            "what": "Write in a journal or reflect on your day",
+            "done": 0
         },
         {
             "id": "t25",
             "nome": "nome25",
-            "what": "Take a walk or go for a run"
+            "what": "Take a walk or go for a run",
+            "done": 0
         },
         {
             "id": "t26",
             "nome": "nome26",
-            "what": "Practice a musical instrument or sing"
+            "what": "Practice a musical instrument or sing",
+            "done": 0
         },
         {
             "id": "t27",
             "nome": "nome27",
-            "what": "Do a creative activity like painting or drawing"
+            "what": "Do a creative activity like painting or drawing",
+            "done": 0
         },
         {
             "id": "t28",
             "nome": "nome28",
-            "what": "Watch a movie or TV show"
+            "what": "Watch a movie or TV show",
+            "done": 0
         },
         {
             "id": "t29",
             "nome": "nome29",
-            "what": "Catch up on news or read a book"
+            "what": "Catch up on news or read a book",
+            "done": 0
         },
         {
             "id": "t30",
             "nome": "nome30",
-            "what": "Clean and organize your living space"
+            "what": "Clean and organize your living space",
+            "done": 0
         },
         {
             "id": "t31",
             "nome": "nome31",
-            "what": "Attend a social event or meetup"
+            "what": "Attend a social event or meetup",
+            "done": 0
         },
         {
             "id": "t32",
             "nome": "nome32",
-            "what": "Volunteer or do community service"
+            "what": "Volunteer or do community service",
+            "done": 0
         },
         {
             "id": "t33",
             "nome": "nome33",
-            "what": "Practice a foreign language"
+            "what": "Practice a foreign language",
+            "done": 0
         },
         {
             "id": "t34",
             "nome": "nome34",
-            "what": "Take a nap or rest"
+            "what": "Take a nap or rest",
+            "done": 0
         },
         {
             "id": "t35",
             "nome": "nome35",
-            "what": "Make a healthy smoothie or juice"
+            "what": "Make a healthy smoothie or juice",
+            "done": 0
         },
         {
             "id": "t36",
             "nome": "nome36",
-            "what": "Do a crossword or puzzle"
+            "what": "Do a crossword or puzzle",
+            "done": 0
         },
         {
             "id": "t37",
             "nome": "nome37",
-            "what": "Visit a museum or art gallery"
+            "what": "Visit a museum or art gallery",
+            "done": 0
         },
         {
             "id": "t38",
             "nome": "nome38",
-            "what": "Listen to a podcast or audiobook"
+            "what": "Listen to a podcast or audiobook",
+            "done": 0
         },
         {
             "id": "t39",
             "nome": "nome39",
-            "what": "Have a deep conversation with someone"
+            "what": "Have a deep conversation with someone",
+            "done": 0
         },
         {
             "id": "t40",
             "nome": "nome40",
-            "what": "Write a letter to someone you care about"
+            "what": "Write a letter to someone you care about",
+            "done": 0
         },
         {
             "id": "t41",
             "nome": "nome41",
-            "what": "Create a vision board or set goals"
+            "what": "Create a vision board or set goals",
+            "done": 0
         },
         {
             "id": "t42",
             "nome": "nome42",
-            "what": "Practice gratitude and appreciation"
+            "what": "Practice gratitude and appreciation",
+            "done": 0
         },
         {
             "id": "t43",
             "nome": "nome43",
-            "what": "Declutter your digital life"
+            "what": "Declutter your digital life",
+            "done": 0
         },
         {
             "id": "t44",
             "nome": "nome44",
-            "what": "Practice a form of self-care like yoga or meditation"
+            "what": "Practice a form of self-care like yoga or meditation",
+            "done": 0
         },
         {
             "id": "t45",
             "nome": "nome45",
-            "what": "Try a new hobby or activity"
+            "what": "Try a new hobby or activity",
+            "done": 0
         },
         {
             "id": "t46",
             "nome": "nome46",
-            "what": "Learn about a different culture or religion"
+            "what": "Learn about a different culture or religion",
+            "done": 0
         },
         {
             "id": "t47",
             "nome": "nome47",
-            "what": "Go to a concert or live performance"
+            "what": "Go to a concert or live performance",
+            "done": 0
         },
         {
             "id": "t48",
             "nome": "nome48",
-            "what": "Make plans for a future trip or adventure"
+            "what": "Make plans for a future trip or adventure",
+            "done": 0
         },
         {
             "id": "t49",
             "nome": "nome49",
-            "what": "Take a class or workshop"
+            "what": "Take a class or workshop",
+            "done": 0
         },
         {
             "id": "t50",
             "nome": "nome50",
-            "what": "Practice forgiveness and let go of grudges"
+            "what": "Practice forgiveness and let go of grudges",
+            "done": 0
         },
         {
             "id": "t51",
             "nome": "nome51",
-            "what": "Call or text a friend to check in"
+            "what": "Call or text a friend to check in",
+            "done": 0
         },
         {
             "id": "t52",
             "nome": "nome52",
-            "what": "Start a garden or plant flowers"
+            "what": "Start a garden or plant flowers",
+            "done": 0
         },
         {
             "id": "t53",
             "nome": "nome53",
-            "what": "Try a new recipe or cuisine"
+            "what": "Try a new recipe or cuisine",
+            "done": 0
         },
         {
             "id": "t54",
             "nome": "nome54",
-            "what": "Create a budget or track expenses"
+            "what": "Create a budget or track expenses",
+            "done": 0
         },
         {
             "id": "t55",
             "nome": "nome55",
-            "what": "Take a digital detox"
+            "what": "Take a digital detox",
+            "done": 0
         },
         {
             "id": "t56",
             "nome": "nome56",
-            "what": "Practice public speaking or storytelling"
+            "what": "Practice public speaking or storytelling",
+            "done": 0
         },
         {
             "id": "t57",
             "nome": "nome57",
-            "what": "Donate to a charity or cause you care about"
+            "what": "Donate to a charity or cause you care about",
+            "done": 0
         },
         {
             "id": "t58",
             "nome": "nome58",
-            "what": "Do a random act of kindness"
+            "what": "Do a random act of kindness",
+            "done": 0
         },
         {
             "id": "t59",
             "nome": "nome59",
-            "what": "Explore a new neighborhood or city"
+            "what": "Explore a new neighborhood or city",
+            "done": 0
         },
         {
             "id": "t60",
             "nome": "nome60",
-            "what": "Practice active listening and empathy"
+            "what": "Practice active listening and empathy",
+            "done": 0
         },
         {
             "id": "t61",
             "nome": "nome61",
-            "what": "Take a break from social media"
+            "what": "Take a break from social media",
+            "done": 0
         },
         {
             "id": "t62",
             "nome": "nome62",
-            "what": "Do a DIY project or home improvement task"
+            "what": "Do a DIY project or home improvement task",
+            "done": 0
         },
         {
             "id": "t63",
             "nome": "nome63",
-            "what": "Try a new workout or fitness routine"
+            "what": "Try a new workout or fitness routine",
+            "done": 0
         },
         {
             "id": "t64",
             "nome": "nome64",
-            "what": "Visit a nearby park or nature reserve"
+            "what": "Visit a nearby park or nature reserve",
+            "done": 0
         },
         {
             "id": "t65",
             "nome": "nome65",
-            "what": "Write a poem or song"
+            "what": "Write a poem or song",
+            "done": 0
         },
         {
             "id": "t66",
             "nome": "nome66",
-            "what": "Organize your email inbox or computer files"
+            "what": "Organize your email inbox or computer files",
+            "done": 0
         },
         {
             "id": "t67",
             "nome": "nome67",
-            "what": "Attend a seminar or conference"
+            "what": "Attend a seminar or conference",
+            "done": 0
         },
         {
             "id": "t68",
             "nome": "nome68",
-            "what": "Take a personality or career assessment"
+            "what": "Take a personality or career assessment",
+            "done": 0
         },
         {
             "id": "t69",
             "nome": "nome69",
-            "what": "Practice self-reflection and self-awareness"
+            "what": "Practice self-reflection and self-awareness",
+            "done": 0
         },
         {
             "id": "t70",
             "nome": "nome70",
-            "what": "Create a vision board or set goals"
+            "what": "Create a vision board or set goals",
+            "done": 0
         },
         {
             "id": "t71",
             "nome": "nome71",
-            "what": "Try a new form of art like sculpting or printmaking"
+            "what": "Try a new form of art like sculpting or printmaking",
+            "done": 0
         },
         {
             "id": "t72",
             "nome": "nome72",
-            "what": "Learn about a new technology or gadget"
+            "what": "Learn about a new technology or gadget",
+            "done": 0
         },
         {
             "id": "t73",
             "nome": "nome73",
-            "what": "Try a new form of meditation or mindfulness practice"
+            "what": "Try a new form of meditation or mindfulness practice",
+            "done": 0
         },
         {
             "id": "t74",
             "nome": "nome74",
-            "what": "Make a gratitude list"
+            "what": "Make a gratitude list",
+            "done": 0
         },
         {
             "id": "t75",
             "nome": "nome75",
-            "what": "Spend time in nature and connect with the environment"
+            "what": "Spend time in nature and connect with the environment",
+            "done": 0
         },
         {
             "id": "t76",
             "nome": "nome76",
-            "what": "Join a book club or discussion group"
+            "what": "Join a book club or discussion group",
+            "done": 0
         },
         {
             "id": "t77",
             "nome": "nome77",
-            "what": "Do a digital declutter and delete unnecessary files"
+            "what": "Do a digital declutter and delete unnecessary files",
+            "done": 0
         },
         {
             "id": "t78",
             "nome": "nome78",
-            "what": "Create a self-care routineStart your day with a glass of warm water and lemon"
+            "what": "Create a self-care routineStart your day with a glass of warm water and lemon",
+            "done": 0
         },
         {
             "id": "t79",
             "nome": "nome79",
-            "what": "Write a to-do list for the day"
+            "what": "Write a to-do list for the day",
+            "done": 0
         },
         {
             "id": "t80",
             "nome": "nome80",
-            "what": "Do a 10-minute yoga routine"
+            "what": "Do a 10-minute yoga routine",
+            "done": 0
         },
         {
             "id": "t81",
             "nome": "nome81",
-            "what": "Take a cold shower"
+            "what": "Take a cold shower",
+            "done": 0
         },
         {
             "id": "t82",
             "nome": "nome82",
-            "what": "Listen to a motivational podcast"
+            "what": "Listen to a motivational podcast",
+            "done": 0
         },
         {
             "id": "t83",
             "nome": "nome83",
-            "what": "Have a healthy snack in between meals"
+            "what": "Have a healthy snack in between meals",
+            "done": 0
         },
         {
             "id": "t84",
             "nome": "nome84",
-            "what": "Learn a new word and use it in a sentence"
+            "what": "Learn a new word and use it in a sentence",
+            "done": 0
         },
         {
             "id": "t85",
             "nome": "nome85",
-            "what": "Take a 15-minute power nap"
+            "what": "Take a 15-minute power nap",
+            "done": 0
         },
         {
             "id": "t86",
             "nome": "nome86",
-            "what": "Do a quick workout at home"
+            "what": "Do a quick workout at home",
+            "done": 0
         },
         {
             "id": "t87",
             "nome": "nome87",
-            "what": "Take a break from technology for an hour"
+            "what": "Take a break from technology for an hour",
+            "done": 0
         },
         {
             "id": "t88",
             "nome": "nome88",
-            "what": "Write a letter of gratitude to someone"
+            "what": "Write a letter of gratitude to someone",
+            "done": 0
         },
         {
             "id": "t89",
             "nome": "nome89",
-            "what": "Spend time in nature and observe your surroundings"
+            "what": "Spend time in nature and observe your surroundings",
+            "done": 0
         },
         {
             "id": "t90",
             "nome": "nome90",
-            "what": "Try a new recipe for lunch or dinner"
+            "what": "Try a new recipe for lunch or dinner",
+            "done": 0
         },
         {
             "id": "t91",
             "nome": "nome91",
-            "what": "Do a random act of kindness for a stranger"
+            "what": "Do a random act of kindness for a stranger",
+            "done": 0
         },
         {
             "id": "t92",
             "nome": "nome92",
-            "what": "Take a 30-minute walk during lunch break"
+            "what": "Take a 30-minute walk during lunch break",
+            "done": 0
         },
         {
             "id": "t93",
             "nome": "nome93",
-            "what": "Declutter your workspace or home"
+            "what": "Declutter your workspace or home",
+            "done": 0
         },
         {
             "id": "t94",
             "nome": "nome94",
-            "what": "Do a brain teaser or puzzle"
+            "what": "Do a brain teaser or puzzle",
+            "done": 0
         },
         {
             "id": "t95",
             "nome": "nome95",
-            "what": "Listen to a new music genre"
+            "what": "Listen to a new music genre",
+            "done": 0
         },
         {
             "id": "t96",
             "nome": "nome96",
-            "what": "Have a cup of herbal tea before bedtime"
+            "what": "Have a cup of herbal tea before bedtime",
+            "done": 0
         },
         {
             "id": "t97",
             "nome": "nome97",
-            "what": "Read a chapter from a non-fiction book"
+            "what": "Read a chapter from a non-fiction book",
+            "done": 0
         },
         {
             "id": "t98",
             "nome": "nome98",
-            "what": "Take a different route to work or run an errand"
+            "what": "Take a different route to work or run an errand",
+            "done": 0
         },
         {
             "id": "t99",
             "nome": "nome99",
-            "what": "Play videogames"
+            "what": "Play videogames",
+            "done": 0
         }
     ]
 }
