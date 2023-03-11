@@ -57,9 +57,59 @@ function showMainPage(res)
     })
 }
 
-//edição da tarefa
+function editTarefa(res,task)
+{
+    getUtilizadores()
+    .then(users =>
+        {
+            axios.get("http://localhost:3000/tasks/" + task)
+            .then( result =>
+                {
+                    res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})
+                    res.end(templates.editTask(result.data,users))
+                }
+            )
+        }
+    )
+    
+}
 
-//realizacao de tarefa
+function saveEdit(req,res,task)
+{
+    collectRequestBodyData(req, result => 
+    {
+        if(result)
+        {
+            axios.put("http://localhost:3000/tasks/" + task,result)
+            .then( result =>
+                {
+                    res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})
+                    res.end(templates.success("Editing of task "+ task))           
+                }
+            )
+        }
+    })
+}
+
+
+function doneTarefa(res,task)
+{ 
+    axios.get("http://localhost:3000/tasks/" + task)
+    .then( result =>
+    {
+        result.data['done'] = 1
+        axios.put("http://localhost:3000/tasks/" + task, result.data)
+        .then( ignore =>
+            {
+                res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})
+                res.end(templates.success("Task "+ task))     
+            }
+        )
+    }
+)
+}
+
+
 
 function collectRequestBodyData(request, callback) {
     if(request.headers['content-type'] === 'application/x-www-form-urlencoded') {
@@ -121,6 +171,11 @@ var server = http.createServer(function (req, res) {
             case "POST":
                 if(req.url == '/'){
                     adiciona(req,res)
+                }
+                else if(/\/tarefa\/edit\/.+/.test(req.url))
+                {
+                    var task = req.url.split('/')[3]
+                    saveEdit(req,res,task)
                 }
                 else{
                     res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})

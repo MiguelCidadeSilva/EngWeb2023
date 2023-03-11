@@ -410,25 +410,23 @@
       "id": "t0",
       "who": "nome0",
       "what": "Wake up early and stretch",
-      "done": 0
+      "done": 1
     },
     {
       "id": "t1",
-      "who": "nome1",
-      "what": "Make your bed",
-      "done": 0
+      "who": "a97031",
+      "what": "Make your bed with vigor"
     },
     {
       "id": "t2",
-      "who": "nome2",
-      "what": "Meditate or practice mindfulness",
-      "done": 0
+      "who": "a97031",
+      "what": "Meditate or practice mindfulness with dedication"
     },
     {
       "id": "t3",
-      "who": "nome3",
-      "what": "Take a shower and get dressed",
-      "done": 0
+      "who": "a97031",
+      "what": "Take a shower and get dressed casually",
+      "done": 1
     },
     {
       "id": "t4",
