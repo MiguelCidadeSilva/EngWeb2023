@@ -3,12 +3,14 @@ var http = require('http')
 var axios = require('axios')
 var templates = require('./templates')
 var static = require('./static.js')
+const { parse } = require('querystring');
 
 function adicionaUser(res,result)
 {
     axios.post("http://localhost:3000/users", result)
     .then( response => {
-        showTasks(res)   
+        let a = response.data
+        showMainPage(res)   
     })
     
 }
@@ -17,11 +19,11 @@ function adicionaTask(res,result)
 {
     axios.post("http://localhost:3000/tasks" ,result)
     .then( response => {
-        showTasks(res)   
+        let a = response.data
+        showMainPage(res)   
     })
 }
 
-//funcao que una as duas
 
 function getUtilizadores()
 {
@@ -41,7 +43,19 @@ function getTarefas()
         })
 }
 
-//get das duas que evoca as coisas acima
+function showMainPage(res)
+{
+    getTarefas()
+    .then(tarefas=>
+    {
+        getUtilizadores()
+        .then(users=>
+            {
+            res.writeHead(200, {'Content-Type': 'text/html;charset=utf-8'})
+            res.write(templates.showPage(users,tarefas))
+        })
+    })
+}
 
 //edição da tarefa
 
@@ -60,6 +74,16 @@ function collectRequestBodyData(request, callback) {
     else {
         callback(null);
     }
+}
+
+function adiciona(req,res){
+    collectRequestBodyData(req,callback=>
+    {
+        if(callback){
+            if(callback.who!=undefined) adicionaTask(res,callback)
+            else adicionaUser(res,callback)
+        }
+    })
 }
 
 

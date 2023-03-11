@@ -118,7 +118,7 @@ for i in range(0,100):
     dicionario["users"].append(utizador)
     tarefa = {
         'id' : f't{i}',
-        'nome': f'nome{i}',
+        'who': f'nome{i}',
         'what': daily_tasks[i],
         'done': 0
     }
