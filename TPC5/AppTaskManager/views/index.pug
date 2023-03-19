@@ -1,5 +1,59 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  header.w3-container.w3-teal
+    h1 Task Manager
+  .w3-container
+    .w3-cell(style="width:60%")
+      form.w3-container(method="POST")
+        fieldset
+          legend Form Tarefas
+          label Id
+          input.w3-input.w3-round(type="text" name="id")
+          label Who?
+          select.w3-select.w3-round(name="who")
+            each user in listOfUsers
+              option(value=user.id)=user.nome
+          label What?
+          input.w3-input.w3-round(type="text" name="what")
+          input.w3-radio(type="radio" name="done" value="0" checked)
+          label To Do
+          input.w3-radio(type="radio" name="done" value="1")
+          label Done
+        br
+        button.w3-btn.w3-teal.w3-mb-2(type="submit") Register Task
+    .w3-cell(style="width:40%")
+      include formUtilizador.pug
+    br
+    .w3-cell-row
+      .w3-cell(style="width:48%")
+        p Tarefas por fazer
+        table.w3-table.w3-striped.w3-bordered.w3-centered
+          tr.w3-teal
+            td ID
+            td Who
+            td What
+            td
+          each elem in todo 
+            tr 
+              td=elem.id
+              td=dictnames[elem.who]
+              td=elem.what
+              td
+                a.w3-btn.w3-round-xlarge.w3-teal.w3-padding-small(href=`/tarefa/done/${elem.id}`)
+                  b Done
+                a.w3-btn.w3-round-xlarge.w3-teal.w3-padding-small(href=`/tarefa/edit/${elem.id}`)
+                  b Edit
+      .w3-cell(style="width:4%")
+      .w3-cell(style="width:48%")
+        p Tarefas feitas
+          table.w3-table.w3-striped.w3-bordered.w3-centered
+            tr.w3-teal
+              td ID
+              td Who
+              td What
+            each elem in done 
+              tr 
+                td=elem.id
+                td=dictnames[elem.who]
+                td=elem.what

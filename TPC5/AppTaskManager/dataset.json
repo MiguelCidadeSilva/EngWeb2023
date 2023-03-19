@@ -403,12 +403,24 @@
     {
       "id": "a97031",
       "nome": "Miguel"
+    },
+    {
+      "id": "1049012",
+      "nome": "Teste"
+    },
+    {
+      "id": "9012840",
+      "nome": "aaa"
+    },
+    {
+      "id": "123",
+      "nome": "teste123"
     }
   ],
   "tasks": [
     {
       "id": "t0",
-      "who": "nome0",
+      "who": "u0",
       "what": "Wake up early and stretch",
       "done": 1
     },
@@ -430,591 +442,596 @@
     },
     {
       "id": "t4",
-      "who": "nome4",
-      "what": "Eat a healthy breakfast",
-      "done": 0
+      "who": "u37",
+      "what": "Eat a healthy breakfast in the morning",
+      "done": "0"
     },
     {
       "id": "t5",
-      "who": "nome5",
+      "who": "u5",
       "what": "Brush your teeth and comb your hair",
       "done": 0
     },
     {
       "id": "t6",
-      "who": "nome6",
+      "who": "u6",
       "what": "Check your email and respond to urgent messages",
       "done": 0
     },
     {
       "id": "t7",
-      "who": "nome7",
+      "who": "u7",
       "what": "Plan your schedule for the day",
       "done": 0
     },
     {
       "id": "t8",
-      "who": "nome8",
+      "who": "u8",
       "what": "Start work on important tasks",
       "done": 0
     },
     {
       "id": "t9",
-      "who": "nome9",
+      "who": "u9",
       "what": "Attend meetings and collaborate with team members",
       "done": 0
     },
     {
       "id": "t10",
-      "who": "nome10",
+      "who": "u10",
       "what": "Complete pending tasks and meet deadlines",
       "done": 0
     },
     {
       "id": "t11",
-      "who": "nome11",
+      "who": "u11",
       "what": "Check in with colleagues and clients",
       "done": 0
     },
     {
       "id": "t12",
-      "who": "nome12",
+      "who": "u12",
       "what": "Take a break and stretch",
       "done": 0
     },
     {
       "id": "t13",
-      "who": "nome13",
+      "who": "u13",
       "what": "Have a healthy lunch",
       "done": 0
     },
     {
       "id": "t14",
-      "who": "nome14",
+      "who": "u14",
       "what": "Review progress and make adjustments as necessary",
       "done": 0
     },
     {
       "id": "t15",
-      "who": "nome15",
+      "who": "u15",
       "what": "Have a healthy snack",
       "done": 0
     },
     {
       "id": "t16",
-      "who": "nome16",
+      "who": "u16",
       "what": "Finish up work for the day",
       "done": 0
     },
     {
       "id": "t17",
-      "who": "nome17",
+      "who": "u17",
       "what": "Exercise or engage in physical activity",
       "done": 0
     },
     {
       "id": "t18",
-      "who": "nome18",
+      "who": "u18",
       "what": "Cook or prepare dinner",
       "done": 0
     },
     {
       "id": "t19",
-      "who": "nome19",
+      "who": "u19",
       "what": "Spend time with family or friends",
       "done": 0
     },
     {
       "id": "t20",
-      "who": "nome20",
+      "who": "u20",
       "what": "Relax and unwind",
       "done": 0
     },
     {
       "id": "t21",
-      "who": "nome21",
+      "who": "u21",
       "what": "Read a book or listen to music",
       "done": 0
     },
     {
       "id": "t22",
-      "who": "nome22",
+      "who": "u22",
       "what": "Go to bed at a reasonable time",
       "done": 0
     },
     {
       "id": "t23",
-      "who": "nome23",
+      "who": "u23",
       "what": "Learn a new skill or take an online course",
       "done": 0
     },
     {
       "id": "t24",
-      "who": "nome24",
+      "who": "u24",
       "what": "Write in a journal or reflect on your day",
       "done": 0
     },
     {
       "id": "t25",
-      "who": "nome25",
+      "who": "u25",
       "what": "Take a walk or go for a run",
       "done": 0
     },
     {
       "id": "t26",
-      "who": "nome26",
+      "who": "u26",
       "what": "Practice a musical instrument or sing",
       "done": 0
     },
     {
       "id": "t27",
-      "who": "nome27",
+      "who": "u27",
       "what": "Do a creative activity like painting or drawing",
       "done": 0
     },
     {
       "id": "t28",
-      "who": "nome28",
+      "who": "u28",
       "what": "Watch a movie or TV show",
       "done": 0
     },
     {
       "id": "t29",
-      "who": "nome29",
+      "who": "u29",
       "what": "Catch up on news or read a book",
       "done": 0
     },
     {
       "id": "t30",
-      "who": "nome30",
+      "who": "u30",
       "what": "Clean and organize your living space",
       "done": 0
     },
     {
       "id": "t31",
-      "who": "nome31",
+      "who": "u31",
       "what": "Attend a social event or meetup",
       "done": 0
     },
     {
       "id": "t32",
-      "who": "nome32",
+      "who": "u32",
       "what": "Volunteer or do community service",
       "done": 0
     },
     {
       "id": "t33",
-      "who": "nome33",
+      "who": "u33",
       "what": "Practice a foreign language",
       "done": 0
     },
     {
       "id": "t34",
-      "who": "nome34",
+      "who": "u34",
       "what": "Take a nap or rest",
       "done": 0
     },
     {
       "id": "t35",
-      "who": "nome35",
+      "who": "u35",
       "what": "Make a healthy smoothie or juice",
       "done": 0
     },
     {
       "id": "t36",
-      "who": "nome36",
+      "who": "u36",
       "what": "Do a crossword or puzzle",
       "done": 0
     },
     {
       "id": "t37",
-      "who": "nome37",
+      "who": "u37",
       "what": "Visit a museum or art gallery",
       "done": 0
     },
     {
       "id": "t38",
-      "who": "nome38",
+      "who": "u38",
       "what": "Listen to a podcast or audiobook",
       "done": 0
     },
     {
       "id": "t39",
-      "who": "nome39",
+      "who": "u39",
       "what": "Have a deep conversation with someone",
       "done": 0
     },
     {
       "id": "t40",
-      "who": "nome40",
+      "who": "u40",
       "what": "Write a letter to someone you care about",
       "done": 0
     },
     {
       "id": "t41",
-      "who": "nome41",
+      "who": "u41",
       "what": "Create a vision board or set goals",
       "done": 0
     },
     {
       "id": "t42",
-      "who": "nome42",
+      "who": "u42",
       "what": "Practice gratitude and appreciation",
       "done": 0
     },
     {
       "id": "t43",
-      "who": "nome43",
+      "who": "u43",
       "what": "Declutter your digital life",
       "done": 0
     },
     {
       "id": "t44",
-      "who": "nome44",
+      "who": "u44",
       "what": "Practice a form of self-care like yoga or meditation",
       "done": 0
     },
     {
       "id": "t45",
-      "who": "nome45",
+      "who": "u45",
       "what": "Try a new hobby or activity",
       "done": 0
     },
     {
       "id": "t46",
-      "who": "nome46",
+      "who": "u46",
       "what": "Learn about a different culture or religion",
       "done": 0
     },
     {
       "id": "t47",
-      "who": "nome47",
+      "who": "u47",
       "what": "Go to a concert or live performance",
       "done": 0
     },
     {
       "id": "t48",
-      "who": "nome48",
+      "who": "u48",
       "what": "Make plans for a future trip or adventure",
       "done": 0
     },
     {
       "id": "t49",
-      "who": "nome49",
+      "who": "u49",
       "what": "Take a class or workshop",
       "done": 0
     },
     {
       "id": "t50",
-      "who": "nome50",
+      "who": "u50",
       "what": "Practice forgiveness and let go of grudges",
       "done": 0
     },
     {
       "id": "t51",
-      "who": "nome51",
+      "who": "u51",
       "what": "Call or text a friend to check in",
       "done": 0
     },
     {
       "id": "t52",
-      "who": "nome52",
+      "who": "u52",
       "what": "Start a garden or plant flowers",
       "done": 0
     },
     {
       "id": "t53",
-      "who": "nome53",
+      "who": "u53",
       "what": "Try a new recipe or cuisine",
       "done": 0
     },
     {
       "id": "t54",
-      "who": "nome54",
+      "who": "u54",
       "what": "Create a budget or track expenses",
       "done": 0
     },
     {
       "id": "t55",
-      "who": "nome55",
+      "who": "u55",
       "what": "Take a digital detox",
       "done": 0
     },
     {
       "id": "t56",
-      "who": "nome56",
+      "who": "u56",
       "what": "Practice public speaking or storytelling",
       "done": 0
     },
     {
       "id": "t57",
-      "who": "nome57",
+      "who": "u57",
       "what": "Donate to a charity or cause you care about",
       "done": 0
     },
     {
       "id": "t58",
-      "who": "nome58",
+      "who": "u58",
       "what": "Do a random act of kindness",
       "done": 0
     },
     {
       "id": "t59",
-      "who": "nome59",
+      "who": "u59",
       "what": "Explore a new neighborhood or city",
       "done": 0
     },
     {
       "id": "t60",
-      "who": "nome60",
+      "who": "u60",
       "what": "Practice active listening and empathy",
       "done": 0
     },
     {
       "id": "t61",
-      "who": "nome61",
+      "who": "u61",
       "what": "Take a break from social media",
       "done": 0
     },
     {
       "id": "t62",
-      "who": "nome62",
+      "who": "u62",
       "what": "Do a DIY project or home improvement task",
       "done": 0
     },
     {
       "id": "t63",
-      "who": "nome63",
+      "who": "u63",
       "what": "Try a new workout or fitness routine",
       "done": 0
     },
     {
       "id": "t64",
-      "who": "nome64",
+      "who": "u64",
       "what": "Visit a nearby park or nature reserve",
       "done": 0
     },
     {
       "id": "t65",
-      "who": "nome65",
+      "who": "u65",
       "what": "Write a poem or song",
       "done": 0
     },
     {
       "id": "t66",
-      "who": "nome66",
+      "who": "u66",
       "what": "Organize your email inbox or computer files",
       "done": 0
     },
     {
       "id": "t67",
-      "who": "nome67",
+      "who": "u67",
       "what": "Attend a seminar or conference",
       "done": 0
     },
     {
       "id": "t68",
-      "who": "nome68",
+      "who": "u68",
       "what": "Take a personality or career assessment",
       "done": 0
     },
     {
       "id": "t69",
-      "who": "nome69",
+      "who": "u69",
       "what": "Practice self-reflection and self-awareness",
       "done": 0
     },
     {
       "id": "t70",
-      "who": "nome70",
+      "who": "u70",
       "what": "Create a vision board or set goals",
       "done": 0
     },
     {
       "id": "t71",
-      "who": "nome71",
+      "who": "u71",
       "what": "Try a new form of art like sculpting or printmaking",
       "done": 0
     },
     {
       "id": "t72",
-      "who": "nome72",
+      "who": "u72",
       "what": "Learn about a new technology or gadget",
       "done": 0
     },
     {
       "id": "t73",
-      "who": "nome73",
+      "who": "u73",
       "what": "Try a new form of meditation or mindfulness practice",
       "done": 0
     },
     {
       "id": "t74",
-      "who": "nome74",
+      "who": "u74",
       "what": "Make a gratitude list",
       "done": 0
     },
     {
       "id": "t75",
-      "who": "nome75",
+      "who": "u75",
       "what": "Spend time in nature and connect with the environment",
       "done": 0
     },
     {
       "id": "t76",
-      "who": "nome76",
+      "who": "u76",
       "what": "Join a book club or discussion group",
       "done": 0
     },
     {
       "id": "t77",
-      "who": "nome77",
+      "who": "u77",
       "what": "Do a digital declutter and delete unnecessary files",
       "done": 0
     },
     {
       "id": "t78",
-      "who": "nome78",
+      "who": "u78",
       "what": "Create a self-care routineStart your day with a glass of warm water and lemon",
       "done": 0
     },
     {
       "id": "t79",
-      "who": "nome79",
+      "who": "u79",
       "what": "Write a to-do list for the day",
       "done": 0
     },
     {
       "id": "t80",
-      "who": "nome80",
+      "who": "u80",
       "what": "Do a 10-minute yoga routine",
       "done": 0
     },
     {
       "id": "t81",
-      "who": "nome81",
+      "who": "u81",
       "what": "Take a cold shower",
       "done": 0
     },
     {
       "id": "t82",
-      "who": "nome82",
+      "who": "u82",
       "what": "Listen to a motivational podcast",
       "done": 0
     },
     {
       "id": "t83",
-      "who": "nome83",
+      "who": "u83",
       "what": "Have a healthy snack in between meals",
       "done": 0
     },
     {
       "id": "t84",
-      "who": "nome84",
+      "who": "u84",
       "what": "Learn a new word and use it in a sentence",
       "done": 0
     },
     {
       "id": "t85",
-      "who": "nome85",
+      "who": "u85",
       "what": "Take a 15-minute power nap",
       "done": 0
     },
     {
       "id": "t86",
-      "who": "nome86",
+      "who": "u86",
       "what": "Do a quick workout at home",
       "done": 0
     },
     {
       "id": "t87",
-      "who": "nome87",
+      "who": "u87",
       "what": "Take a break from technology for an hour",
       "done": 0
     },
     {
       "id": "t88",
-      "who": "nome88",
+      "who": "u88",
       "what": "Write a letter of gratitude to someone",
       "done": 0
     },
     {
       "id": "t89",
-      "who": "nome89",
+      "who": "u89",
       "what": "Spend time in nature and observe your surroundings",
       "done": 0
     },
     {
       "id": "t90",
-      "who": "nome90",
+      "who": "u90",
       "what": "Try a new recipe for lunch or dinner",
       "done": 0
     },
     {
       "id": "t91",
-      "who": "nome91",
+      "who": "u91",
       "what": "Do a random act of kindness for a stranger",
       "done": 0
     },
     {
       "id": "t92",
-      "who": "nome92",
+      "who": "u92",
       "what": "Take a 30-minute walk during lunch break",
       "done": 0
     },
     {
       "id": "t93",
-      "who": "nome93",
+      "who": "u93",
       "what": "Declutter your workspace or home",
       "done": 0
     },
     {
       "id": "t94",
-      "who": "nome94",
+      "who": "u94",
       "what": "Do a brain teaser or puzzle",
       "done": 0
     },
     {
       "id": "t95",
-      "who": "nome95",
+      "who": "u95",
       "what": "Listen to a new music genre",
       "done": 0
     },
     {
       "id": "t96",
-      "who": "nome96",
+      "who": "u96",
       "what": "Have a cup of herbal tea before bedtime",
       "done": 0
     },
     {
       "id": "t97",
-      "who": "nome97",
+      "who": "u97",
       "what": "Read a chapter from a non-fiction book",
       "done": 0
     },
     {
       "id": "t98",
-      "who": "nome98",
+      "who": "u98",
       "what": "Take a different route to work or run an errand",
       "done": 0
     },
     {
       "id": "t99",
-      "who": "nome99",
+      "who": "u99",
       "what": "Play videogames",
       "done": 0
     },
     {
       "id": "t94810",
       "who": "a97031",
-      "what": "buelele",
-      "done": "0"
+      "what": "buelelele"
     },
     {
       "id": "t903148",
       "who": "a97031",
       "what": "rest",
       "done": "1"
+    },
+    {
+      "id": "t908098909890",
+      "who": "a97031",
+      "what": "teste",
+      "done": 1
     }
   ]
 }

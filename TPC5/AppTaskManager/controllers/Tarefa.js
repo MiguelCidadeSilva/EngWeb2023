@@ -1,17 +1,17 @@
 var axios = require('axios')
 
-module.exports.insert= tarefa =>
+module.exports.insertTarefa = tarefa =>
 {
-    axios.post("http://localhost:3000/tasks" ,tarefa)
+    return axios.post("http://localhost:3000/tasks" ,tarefa)
     .then(res => {return res.data})
-    .else(erro=>{return erro})
+    .catch(erro=>{return erro})
 }
 
 module.exports.getTarefas = () =>
 {
     return axios.get("http://localhost:3000/tasks/")
-    .then(res => {return res.data})
-    .else(erro=>{return erro})
+        .then(res => {return res.data})
+        .catch(erro=>{return erro})
 }
 
 module.exports.get = id =>

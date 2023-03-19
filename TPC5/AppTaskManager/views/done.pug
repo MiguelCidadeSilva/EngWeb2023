@@ -1,0 +1,18 @@
+extends layout 
+
+block content
+    header.w3-container.w3-teal
+        h1 Realizar Tarefa (ESTA AÇÃO É IRREVERSÍVEL)
+    .w3.container
+            form.w3-container(method="POST")
+                fieldset.w3-light-grey
+                    legend Tarefa
+                    label ID
+                    input.w3-input.w3-round(type="text" name="id" value=tarefa.id readonly)
+                    label Who?
+                    input.w3-input.w3-round(type="text" name="who" value=tarefa.who readonly)
+                    label What?
+                    input.w3-input.w3-round(type="text" name="what" value=tarefa.what,readonly)
+                br
+                button.w3-btn.w3-round-xlarge.w3-green(type="submit") Confirmar
+                a.w3-btn.w3-round-xlarge.w3-red(href="/") Voltar
