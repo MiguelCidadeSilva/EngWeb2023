@@ -1,0 +1,16 @@
+extends layout 
+block content 
+    h1.w3-blue(tyle="text-shadow:2px 2px 0 #444",style="margin-top: 0px;") 
+        b.w3-margin-left="EMD: "+emd._id 
+    p="ID: "+emd._id
+    p="Data: "+emd.dataEMD
+    p="Nome: "+emd.nome.primeiro+" "+emd.nome.último
+    p="Género: "+emd.género
+    p="Idade: "+emd.idade 
+    p="Morada: "+emd.morada 
+    p="Modalidade: "+emd.modalidade 
+    p="Clube: "+emd.clube 
+    p="Email: "+emd.email 
+    p="Federado: "+emd.federado 
+    p="Resultado: "+emd.resultado
+    a.w3-btn.w3-blue.w3-hover-light-blue(href="/") Voltar

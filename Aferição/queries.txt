@@ -1,0 +1,28 @@
+1)
+
+db.exames.find().count()
+
+2)
+
+db.exames.find({ resultado: true }).count()
+
+3)
+
+db.exames.find({ género:"F" }).count()
+db.exames.find({ género:"M" }).count()
+
+
+4)
+
+db.exames.aggregate([
+...   { $group: { _id: "$modalidade", count: { $sum: 1 } } },
+...   { $sort: { count: -1 } },
+...   { $group: { _id: null, modalidades: { $push: { modalidade: "$_id", count: "$count" } } } },
+...   { $project: { _id: 0, modalidades: 1 } }
+... ])
+
+5)
+db.exames.find({ federado:true,clube:"GDGoma" }).count()
+
+6)
+db.exames.find({ género:"F",desporto:"Triatlo" }).count()

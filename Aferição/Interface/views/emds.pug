@@ -1,0 +1,22 @@
+extends layout 
+block content 
+    h1.w3-blue(tyle="text-shadow:2px 2px 0 #444",style="margin-top: 0px;") 
+        b.w3-margin-left EMDS registados no sistema
+    table.w3-table.w3-hoverable
+        thead
+            tr.w3-blue
+                th ID
+                th(style="text-align: center") Nome
+                th Data 
+                th Resultado
+        each emd in emds
+            tr
+                td.w3-border
+                    a(href="/"+emd._id)=emd._id
+                td.w3-border
+                    p=emd.nome.primeiro+" "+emd.nome.último
+                td.w3-border
+                    p=emd.dataEMD
+                td.w3-border
+                    p=emd.resultado
+                td.w3-border
